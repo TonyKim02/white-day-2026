@@ -175,7 +175,7 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Thank you for accepting, I love you! 💕
+            Thank you for accepting, I love you! Also thank you for bein with me for so long. I know it's hard and sometime hurtful to date me. I will make sure you feel loved💕
             <p className="text-sm mt-4">For more information, write me an imessage!!! 💌</p>
             <Image
               src="hamster_jumping.gif"
